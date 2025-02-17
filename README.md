@@ -24,6 +24,9 @@ This project analyzes **global video game sales data (1980-2020)** using **SQL-b
   - 📅 `Year`: Release year of the game
   - 🌎 `Sales`: Global and regional sales (NA, EU, JP, Other)
 
+## Languages and Tools Used
+- **SQL**: For database management and queries.
+- **Tableau**: For creating interactive dashboards.
 ---
 
 ## 📌 Database Schema (3NF Normalization)
