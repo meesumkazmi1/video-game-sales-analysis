@@ -27,7 +27,6 @@ This project analyzes **global video game sales data (1980-2020)** using **SQL-b
 ## Languages and Tools Used
 - **SQL**: For database management and queries.
 - **Tableau**: For creating interactive dashboards.
----
 
 ## 📌 Database Schema (3NF Normalization)
 The dataset was transformed into a **relational database** with the following structure:
